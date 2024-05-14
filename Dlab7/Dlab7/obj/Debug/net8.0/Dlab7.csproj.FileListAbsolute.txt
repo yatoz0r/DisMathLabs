@@ -1,0 +1,14 @@
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\bin\Debug\net8.0\Dlab7.exe
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\bin\Debug\net8.0\Dlab7.deps.json
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\bin\Debug\net8.0\Dlab7.runtimeconfig.json
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\bin\Debug\net8.0\Dlab7.dll
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\bin\Debug\net8.0\Dlab7.pdb
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\Dlab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\Dlab7.AssemblyInfoInputs.cache
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\Dlab7.AssemblyInfo.cs
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\Dlab7.csproj.CoreCompileInputs.cache
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\Dlab7.dll
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\refint\Dlab7.dll
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\Dlab7.pdb
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\Dlab7.genruntimeconfig.cache
+C:\Users\yatoz\source\repos\Dlab7\Dlab7\obj\Debug\net8.0\ref\Dlab7.dll

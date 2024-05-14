@@ -1,0 +1,14 @@
+C:\Users\yatoz\source\repos\DLab8\DLab8\bin\Debug\net8.0\DLab8.exe
+C:\Users\yatoz\source\repos\DLab8\DLab8\bin\Debug\net8.0\DLab8.deps.json
+C:\Users\yatoz\source\repos\DLab8\DLab8\bin\Debug\net8.0\DLab8.runtimeconfig.json
+C:\Users\yatoz\source\repos\DLab8\DLab8\bin\Debug\net8.0\DLab8.dll
+C:\Users\yatoz\source\repos\DLab8\DLab8\bin\Debug\net8.0\DLab8.pdb
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.AssemblyInfoInputs.cache
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.AssemblyInfo.cs
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.csproj.CoreCompileInputs.cache
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.dll
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\refint\DLab8.dll
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.pdb
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.genruntimeconfig.cache
+C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\ref\DLab8.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DLab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF4B6B-C3DE-4FEA-B030-607C4CB18E76}|DLab6\\DLab6.csproj|e:\\dlab6\\dlab6\\primkruskal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF4B6B-C3DE-4FEA-B030-607C4CB18E76}|DLab6\\DLab6.csproj|solutionrelative:dlab6\\primkruskal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF4B6B-C3DE-4FEA-B030-607C4CB18E76}|DLab6\\DLab6.csproj|E:\\DLab6\\dlab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF4B6B-C3DE-4FEA-B030-607C4CB18E76}|DLab6\\DLab6.csproj|solutionrelative:dlab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimKruskal.cs",
+              "DocumentMoniker": "E:\\DLab6\\DLab6\\PrimKruskal.cs",
+              "RelativeDocumentMoniker": "DLab6\\PrimKruskal.cs",
+              "ToolTip": "E:\\DLab6\\DLab6\\PrimKruskal.cs",
+              "RelativeToolTip": "DLab6\\PrimKruskal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:41:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DLab6\\DLab6\\Program.cs",
+              "RelativeDocumentMoniker": "DLab6\\Program.cs",
+              "ToolTip": "E:\\DLab6\\DLab6\\Program.cs",
+              "RelativeToolTip": "DLab6\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:41:10.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
