@@ -7,9 +7,23 @@ public class Program
 
         foreach (string word in words)
         {
-            Console.WriteLine("Введите слово");
+            
             Console.WriteLine($"Слово: {word}");
 
+            if (IsWord(/*Console.ReadLine()*/word))
+            {
+                Console.WriteLine("Слово распознано автоматом.");
+            }
+            else
+            {
+                Console.WriteLine("Слово не распознано автоматом.");
+            }
+
+            Console.WriteLine();
+        }
+        while(true)
+        {
+            Console.WriteLine("Введите слово");
             if (IsWord(Console.ReadLine()))
             {
                 Console.WriteLine("Слово распознано автоматом.");
@@ -25,13 +39,16 @@ public class Program
     private enum States
     {
         Start,
-        A, 
-        B,
         C,
         D, 
+        DC,
         CC,
-        CCC,
         DD,
+        DCC,
+        DDC,
+        CCC,
+        DCCC,
+        DDCC,
         Final
     }
 
@@ -39,10 +56,11 @@ public class Program
 
     private static readonly int[,] matrix = new int[,]
     {
-        {1, 1, 2, 3, 4, 3, 3, 4, 8},
-        {2, 1, 2, 3, 4, 3, 3, 4, 8},
-        {3, 1, 2, 5, 3, 6, 6, 3, 8},
-        {4, 1, 2, 4, 7, 4, 4, 7, 8},
+
+        {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 },
+        {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11},
+        {1, 4, 3, 6, 8, 7, 9, 10, 8, 9, 11, 11 },
+        {2, 3, 5, 7, 6, 5, 10, 7, 9, 11, 10, 11},
     };
 
     private static States Transition(States currentState, char input)
@@ -60,21 +78,22 @@ public class Program
     public static bool IsWord(string word)
     {
         States state = States.Start;
-        int countC = 0;
-        int countD = 0;
-
+        bool  enCountCCC = false;
+        bool enCountDD = false;
+        States stateCCC = States.CCC;
+        States stateDD = States.DD;
         foreach (char symbol in word)
         {
             state = Transition(state, symbol);
             Console.WriteLine($"Буква: {symbol}; Состояние: {state}");
 
-            if (symbol == 'c')
+            if (state == stateCCC || state == States.DCCC || state == States.Final)
             {
-                countC++;
+                enCountCCC = true;
             }
-            else if (symbol == 'd')
+            if (state == stateDD || state == States.DDC || state == States.Final)
             {
-                countD++;
+                enCountDD = true;
             }
 
             if (state == States.Final)
@@ -83,6 +102,6 @@ public class Program
             }
         }
 
-        return countC == 3 && countD == 2;
+        return enCountCCC  && enCountDD;
     }
 }

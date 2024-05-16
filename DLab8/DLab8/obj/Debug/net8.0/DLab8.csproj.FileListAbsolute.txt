@@ -12,3 +12,17 @@ C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\refint\DLab8.dll
 C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.pdb
 C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\DLab8.genruntimeconfig.cache
 C:\Users\yatoz\source\repos\DLab8\DLab8\obj\Debug\net8.0\ref\DLab8.dll
+E:\DLab8\DLab8\bin\Debug\net8.0\DLab8.exe
+E:\DLab8\DLab8\bin\Debug\net8.0\DLab8.deps.json
+E:\DLab8\DLab8\bin\Debug\net8.0\DLab8.runtimeconfig.json
+E:\DLab8\DLab8\bin\Debug\net8.0\DLab8.dll
+E:\DLab8\DLab8\bin\Debug\net8.0\DLab8.pdb
+E:\DLab8\DLab8\obj\Debug\net8.0\DLab8.GeneratedMSBuildEditorConfig.editorconfig
+E:\DLab8\DLab8\obj\Debug\net8.0\DLab8.AssemblyInfoInputs.cache
+E:\DLab8\DLab8\obj\Debug\net8.0\DLab8.AssemblyInfo.cs
+E:\DLab8\DLab8\obj\Debug\net8.0\DLab8.csproj.CoreCompileInputs.cache
+E:\DLab8\DLab8\obj\Debug\net8.0\DLab8.dll
+E:\DLab8\DLab8\obj\Debug\net8.0\refint\DLab8.dll
+E:\DLab8\DLab8\obj\Debug\net8.0\DLab8.pdb
+E:\DLab8\DLab8\obj\Debug\net8.0\DLab8.genruntimeconfig.cache
+E:\DLab8\DLab8\obj\Debug\net8.0\ref\DLab8.dll
